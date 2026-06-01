@@ -1,0 +1,93 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+bin/
+obj/
+.vs/
+
+bin/
+obj/
+.vs/
+
+# Visual Studio cache/options directory
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+
+# Rider
+.idea/
+*.sln.iml
+*.swp
+
+
+# User-specific files
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+
+# Temporary test files
+.testframeworx
+
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+
+# Local history for Visual Studio Code
+.history/
+.ionide/
+
+
+# macOS
+.DS_Store
+
+
+# Windows
+Thumbs.db
+
+
+# Editor files
+*.swp
+*.swo
+*~
+
+
+# dotCover
+.dotCover/
+
+
+# OpenCover
+OpenCover/
+
+
+# Coverage reports
+coverage.xml
+
+
+# Local .NET CLI global.json if exists
+!global.json
