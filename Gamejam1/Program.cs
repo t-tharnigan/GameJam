@@ -13,7 +13,7 @@ class Game
 
     class Weapon
     {
-        public string Name;
+        public string Name = "";
         public Rarity Rarity;
         public float Damage;
         public float FireRate;     // seconden tussen schoten
@@ -61,7 +61,7 @@ class Game
     static Vector2 playerPos = new Vector2(ScreenW / 2f, ScreenH / 2f);
     static float playerSpeed = 260f;
     static int playerHealth = 100;
-    static Weapon currentWeapon;
+    static Weapon currentWeapon = null!;
     static int coins = 0;
     static float fireCooldown = 0f;
 
