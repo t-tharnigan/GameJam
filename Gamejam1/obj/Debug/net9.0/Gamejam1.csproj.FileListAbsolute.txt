@@ -1,0 +1,15 @@
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\bin\Debug\net9.0\Gamejam1.exe
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\bin\Debug\net9.0\Gamejam1.deps.json
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\bin\Debug\net9.0\Gamejam1.runtimeconfig.json
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\bin\Debug\net9.0\Gamejam1.dll
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\bin\Debug\net9.0\Gamejam1.pdb
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\Gamejam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\Gamejam1.AssemblyInfoInputs.cache
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\Gamejam1.AssemblyInfo.cs
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\Gamejam1.csproj.CoreCompileInputs.cache
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\Gamejam1.sourcelink.json
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\Gamejam1.dll
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\refint\Gamejam1.dll
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\Gamejam1.pdb
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\Gamejam1.genruntimeconfig.cache
+C:\Users\omarm709\Desktop\GameJam1\GameJam\Gamejam1\obj\Debug\net9.0\ref\Gamejam1.dll

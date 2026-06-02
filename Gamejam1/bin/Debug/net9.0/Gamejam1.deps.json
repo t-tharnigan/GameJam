@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Gamejam1/1.0.0": {
+        "runtime": {
+          "Gamejam1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gamejam1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

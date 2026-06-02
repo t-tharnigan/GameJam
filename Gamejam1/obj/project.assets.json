@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net9.0": {}
   },
@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\s95186\\.nuget\\packages\\": {},
+    "C:\\Users\\omarm709\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s95186\\Documents\\GameJam\\Gamejam1\\Gamejam1.csproj",
+      "projectUniqueName": "C:\\Users\\omarm709\\Desktop\\GameJam1\\GameJam\\Gamejam1\\Gamejam1.csproj",
       "projectName": "Gamejam1",
-      "projectPath": "C:\\Users\\s95186\\Documents\\GameJam\\Gamejam1\\Gamejam1.csproj",
-      "packagesPath": "C:\\Users\\s95186\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s95186\\Documents\\GameJam\\Gamejam1\\obj\\",
+      "projectPath": "C:\\Users\\omarm709\\Desktop\\GameJam1\\GameJam\\Gamejam1\\Gamejam1.csproj",
+      "packagesPath": "C:\\Users\\omarm709\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\omarm709\\Desktop\\GameJam1\\GameJam\\Gamejam1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\s95186\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\omarm709\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -37,6 +37,7 @@
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "projectReferences": {}
         }
@@ -51,10 +52,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net9.0": {
+        "framework": "net9.0",
         "targetAlias": "net9.0",
         "imports": [
           "net461",
@@ -67,12 +69,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.16, 9.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.16, 9.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.16, 9.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.16, 9.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
